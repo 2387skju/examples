@@ -29,11 +29,11 @@ This are two / three examples, how realise this modification of the font:
 
  - only convert the digits to monospace (e.g. for a clock): Merge two number together:
 
-   ![Screenshot](font_force_monospace_digits-only_align2together_screenshot_part.png)
+   ![Screenshot](force_monospace_digits-only_align2together_screenshot_part.png)
 
-   ![Screenshot](font_force_monospace_digits-only_align2together_screenshot_part2.png)
+   ![Screenshot](force_monospace_digits-only_align2together_screenshot_part2.png)
 
-   Source: [font_force_monospace_digits-only_align2together_v3.c](font_force_monospace_digits-only_align2together_v3-1.c)
+   Source: [force_monospace_digits-only_align2together_v3.c](force_monospace_digits-only_align2together_v3-1.c)
 
  - convert all ( / or only a-Z0-9) character to the supposed* mostly same width (*= depends on your test-text-string)
  

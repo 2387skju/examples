@@ -32,7 +32,7 @@
 
 
 // compile && run:
-// gcc font_force_monospace_abc123_v3-1.c `pkg-config --libs --cflags gtk+-3.0` && ./a.out
+// gcc force_monospace_abc123_v3-1.c `pkg-config --libs --cflags gtk+-3.0` && ./a.out
 
 // valgrind --tool=memcheck --leak-check=full ./a.out
 

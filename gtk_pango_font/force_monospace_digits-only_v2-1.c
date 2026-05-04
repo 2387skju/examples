@@ -28,7 +28,7 @@
 **/
 
 // compile && run:
-// gcc example_gtk_pango_font_force_monospace_digits_v2-1.c `pkg-config --libs --cflags gtk+-3.0` && ./a.out
+// gcc force_monospace_digits-only_v2-1.c `pkg-config --libs --cflags gtk+-3.0` && ./a.out
 
 // valgrind --tool=memcheck --leak-check=full ./a.out
 
